@@ -1,0 +1,23 @@
+method: rcDV
+xe0_1: -2
+xe0_2: 0
+xp0_1: -2
+xp0_2: 2
+theta_t: 45
+typeOpt: 4
+typeSim: 8
+n: 4
+ne: 2
+np: 2
+n_u: 2
+uMax: 0.015
+wMax: 0.01
+drho: 10
+dpsi: 10
+alphaV: 18
+tolXe: 0.05
+tolXp: 0.05
+tolu: 0.08
+T: 500
+N: 50
+Velocity Norm: inf
